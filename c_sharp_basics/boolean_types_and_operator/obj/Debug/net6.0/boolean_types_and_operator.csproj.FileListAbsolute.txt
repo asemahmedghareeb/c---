@@ -1,0 +1,15 @@
+B:\projects\c_sharp_basics\boolean_types_and_operator\obj\Debug\net6.0\boolean_types_and_operator.csproj.AssemblyReference.cache
+B:\projects\c_sharp_basics\boolean_types_and_operator\obj\Debug\net6.0\boolean_types_and_operator.GeneratedMSBuildEditorConfig.editorconfig
+B:\projects\c_sharp_basics\boolean_types_and_operator\obj\Debug\net6.0\boolean_types_and_operator.AssemblyInfoInputs.cache
+B:\projects\c_sharp_basics\boolean_types_and_operator\obj\Debug\net6.0\boolean_types_and_operator.AssemblyInfo.cs
+B:\projects\c_sharp_basics\boolean_types_and_operator\obj\Debug\net6.0\boolean_types_and_operator.csproj.CoreCompileInputs.cache
+B:\projects\c_sharp_basics\boolean_types_and_operator\bin\Debug\net6.0\boolean_types_and_operator.exe
+B:\projects\c_sharp_basics\boolean_types_and_operator\bin\Debug\net6.0\boolean_types_and_operator.deps.json
+B:\projects\c_sharp_basics\boolean_types_and_operator\bin\Debug\net6.0\boolean_types_and_operator.runtimeconfig.json
+B:\projects\c_sharp_basics\boolean_types_and_operator\bin\Debug\net6.0\boolean_types_and_operator.dll
+B:\projects\c_sharp_basics\boolean_types_and_operator\bin\Debug\net6.0\boolean_types_and_operator.pdb
+B:\projects\c_sharp_basics\boolean_types_and_operator\obj\Debug\net6.0\boolean_types_and_operator.dll
+B:\projects\c_sharp_basics\boolean_types_and_operator\obj\Debug\net6.0\refint\boolean_types_and_operator.dll
+B:\projects\c_sharp_basics\boolean_types_and_operator\obj\Debug\net6.0\boolean_types_and_operator.pdb
+B:\projects\c_sharp_basics\boolean_types_and_operator\obj\Debug\net6.0\boolean_types_and_operator.genruntimeconfig.cache
+B:\projects\c_sharp_basics\boolean_types_and_operator\obj\Debug\net6.0\ref\boolean_types_and_operator.dll

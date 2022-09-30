@@ -1,0 +1,15 @@
+B:\projects\c_sharp_basics\Expressions\bin\Debug\net6.0\Expressions.exe
+B:\projects\c_sharp_basics\Expressions\bin\Debug\net6.0\Expressions.deps.json
+B:\projects\c_sharp_basics\Expressions\bin\Debug\net6.0\Expressions.runtimeconfig.json
+B:\projects\c_sharp_basics\Expressions\bin\Debug\net6.0\Expressions.dll
+B:\projects\c_sharp_basics\Expressions\bin\Debug\net6.0\Expressions.pdb
+B:\projects\c_sharp_basics\Expressions\obj\Debug\net6.0\Expressions.csproj.AssemblyReference.cache
+B:\projects\c_sharp_basics\Expressions\obj\Debug\net6.0\Expressions.GeneratedMSBuildEditorConfig.editorconfig
+B:\projects\c_sharp_basics\Expressions\obj\Debug\net6.0\Expressions.AssemblyInfoInputs.cache
+B:\projects\c_sharp_basics\Expressions\obj\Debug\net6.0\Expressions.AssemblyInfo.cs
+B:\projects\c_sharp_basics\Expressions\obj\Debug\net6.0\Expressions.csproj.CoreCompileInputs.cache
+B:\projects\c_sharp_basics\Expressions\obj\Debug\net6.0\Expressions.dll
+B:\projects\c_sharp_basics\Expressions\obj\Debug\net6.0\refint\Expressions.dll
+B:\projects\c_sharp_basics\Expressions\obj\Debug\net6.0\Expressions.pdb
+B:\projects\c_sharp_basics\Expressions\obj\Debug\net6.0\Expressions.genruntimeconfig.cache
+B:\projects\c_sharp_basics\Expressions\obj\Debug\net6.0\ref\Expressions.dll

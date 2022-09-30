@@ -1,0 +1,15 @@
+B:\projects\c_sharp_basics\Statments_And_Blocks\bin\Debug\net6.0\Statments_And_Blocks.exe
+B:\projects\c_sharp_basics\Statments_And_Blocks\bin\Debug\net6.0\Statments_And_Blocks.deps.json
+B:\projects\c_sharp_basics\Statments_And_Blocks\bin\Debug\net6.0\Statments_And_Blocks.runtimeconfig.json
+B:\projects\c_sharp_basics\Statments_And_Blocks\bin\Debug\net6.0\Statments_And_Blocks.dll
+B:\projects\c_sharp_basics\Statments_And_Blocks\bin\Debug\net6.0\Statments_And_Blocks.pdb
+B:\projects\c_sharp_basics\Statments_And_Blocks\obj\Debug\net6.0\Statments_And_Blocks.csproj.AssemblyReference.cache
+B:\projects\c_sharp_basics\Statments_And_Blocks\obj\Debug\net6.0\Statments_And_Blocks.GeneratedMSBuildEditorConfig.editorconfig
+B:\projects\c_sharp_basics\Statments_And_Blocks\obj\Debug\net6.0\Statments_And_Blocks.AssemblyInfoInputs.cache
+B:\projects\c_sharp_basics\Statments_And_Blocks\obj\Debug\net6.0\Statments_And_Blocks.AssemblyInfo.cs
+B:\projects\c_sharp_basics\Statments_And_Blocks\obj\Debug\net6.0\Statments_And_Blocks.csproj.CoreCompileInputs.cache
+B:\projects\c_sharp_basics\Statments_And_Blocks\obj\Debug\net6.0\Statments_And_Blocks.dll
+B:\projects\c_sharp_basics\Statments_And_Blocks\obj\Debug\net6.0\refint\Statments_And_Blocks.dll
+B:\projects\c_sharp_basics\Statments_And_Blocks\obj\Debug\net6.0\Statments_And_Blocks.pdb
+B:\projects\c_sharp_basics\Statments_And_Blocks\obj\Debug\net6.0\Statments_And_Blocks.genruntimeconfig.cache
+B:\projects\c_sharp_basics\Statments_And_Blocks\obj\Debug\net6.0\ref\Statments_And_Blocks.dll

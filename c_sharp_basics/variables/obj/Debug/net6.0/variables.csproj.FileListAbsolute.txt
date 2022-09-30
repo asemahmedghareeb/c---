@@ -1,0 +1,15 @@
+B:\projects\c_sharp_basics\variables\bin\Debug\net6.0\variables.exe
+B:\projects\c_sharp_basics\variables\bin\Debug\net6.0\variables.deps.json
+B:\projects\c_sharp_basics\variables\bin\Debug\net6.0\variables.runtimeconfig.json
+B:\projects\c_sharp_basics\variables\bin\Debug\net6.0\variables.dll
+B:\projects\c_sharp_basics\variables\bin\Debug\net6.0\variables.pdb
+B:\projects\c_sharp_basics\variables\obj\Debug\net6.0\variables.csproj.AssemblyReference.cache
+B:\projects\c_sharp_basics\variables\obj\Debug\net6.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+B:\projects\c_sharp_basics\variables\obj\Debug\net6.0\variables.AssemblyInfoInputs.cache
+B:\projects\c_sharp_basics\variables\obj\Debug\net6.0\variables.AssemblyInfo.cs
+B:\projects\c_sharp_basics\variables\obj\Debug\net6.0\variables.csproj.CoreCompileInputs.cache
+B:\projects\c_sharp_basics\variables\obj\Debug\net6.0\variables.dll
+B:\projects\c_sharp_basics\variables\obj\Debug\net6.0\refint\variables.dll
+B:\projects\c_sharp_basics\variables\obj\Debug\net6.0\variables.pdb
+B:\projects\c_sharp_basics\variables\obj\Debug\net6.0\variables.genruntimeconfig.cache
+B:\projects\c_sharp_basics\variables\obj\Debug\net6.0\ref\variables.dll
