@@ -34,15 +34,37 @@ namespace loops
                 current = newfib;
             }
 
+            Console.WriteLine("\n");
+
             foreach (var c in "full stack developer course")
                 Console.Write(c + " ");
 
+            Console.WriteLine("\n");
             var arr=new int[] {1,2,3,4,5,6,7,8,9,10};
             foreach (var i in arr)
                 Console.Write(i + " ");
+
+            Console.WriteLine("\n");
+            //got to 
+            var v = 0;
+            start:
+            if(v < 5)
+            {
+                v++;
+                Console.Write(v + " ");
+                goto start;
+            }
+
+            Console.WriteLine("\n");
+            var input = .44m;
+            var result = Aspercent(input);
+            Console.WriteLine(result);
             Console.ReadKey();
         }
-
+        static decimal Aspercent(decimal amount)
+        {
+            return amount * 100;
+        }
     }
 
 

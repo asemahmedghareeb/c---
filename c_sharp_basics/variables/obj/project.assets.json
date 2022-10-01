@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\projects\\c_sharp_basics\\variables\\variables.csproj",
+      "projectUniqueName": "B:\\projects\\c#\\c_sharp_basics\\variables\\variables.csproj",
       "projectName": "variables",
-      "projectPath": "B:\\projects\\c_sharp_basics\\variables\\variables.csproj",
+      "projectPath": "B:\\projects\\c#\\c_sharp_basics\\variables\\variables.csproj",
       "packagesPath": "C:\\Users\\win11\\.nuget\\packages\\",
-      "outputPath": "B:\\projects\\c_sharp_basics\\variables\\obj\\",
+      "outputPath": "B:\\projects\\c#\\c_sharp_basics\\variables\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\win11\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iAMjuqaT/rT1VaagzoR5nx8Bn6l+C4g5m2ZxOPk45K6TqbKTtYsSfEjq+zbxuJzoL+iQrNainPfJbHfVBrJTGQ==",
+  "dgSpecHash": "BVt9WE3APQFcnjI3y8QtxqxhFtHhuaIKa/Cefgh1zRB9iKj13vMzbeMVi2uWM3FtdDK0TiwhFBzyRhPHGumx1A==",
   "success": true,
-  "projectFilePath": "B:\\projects\\c_sharp_basics\\Expressions\\Expressions.csproj",
+  "projectFilePath": "B:\\projects\\c#\\c_sharp_basics\\Expressions\\Expressions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

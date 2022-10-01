@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\projects\\c_sharp_basics\\Statments_And_Blocks\\Statments_And_Blocks.csproj",
+      "projectUniqueName": "B:\\projects\\c#\\c_sharp_basics\\Statments_And_Blocks\\Statments_And_Blocks.csproj",
       "projectName": "Statments_And_Blocks",
-      "projectPath": "B:\\projects\\c_sharp_basics\\Statments_And_Blocks\\Statments_And_Blocks.csproj",
+      "projectPath": "B:\\projects\\c#\\c_sharp_basics\\Statments_And_Blocks\\Statments_And_Blocks.csproj",
       "packagesPath": "C:\\Users\\win11\\.nuget\\packages\\",
-      "outputPath": "B:\\projects\\c_sharp_basics\\Statments_And_Blocks\\obj\\",
+      "outputPath": "B:\\projects\\c#\\c_sharp_basics\\Statments_And_Blocks\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\win11\\AppData\\Roaming\\NuGet\\NuGet.Config",

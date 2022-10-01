@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U4pntFTarVrAJqAyLa2RArHW71rsnlaJzerXxL6vA5w8mZvHS4dBDGQZO8jv6bq6e0bzeLykks8Rbtai17j3NA==",
+  "dgSpecHash": "4DAiFX2iVOuesbQWQIH9ss4MLTao2IFD30l7OsweF3eSah0G4hGDi7QyJ29i4z9I4mCYDet8FYfShZz5xrL71g==",
   "success": true,
-  "projectFilePath": "B:\\projects\\c_sharp_basics\\array\\array.csproj",
+  "projectFilePath": "B:\\projects\\c#\\c_sharp_basics\\array\\array.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

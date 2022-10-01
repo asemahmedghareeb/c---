@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "B:\\projects\\c_sharp_basics\\array\\array.csproj": {}
+    "B:\\projects\\c#\\c_sharp_basics\\array\\array.csproj": {}
   },
   "projects": {
-    "B:\\projects\\c_sharp_basics\\array\\array.csproj": {
+    "B:\\projects\\c#\\c_sharp_basics\\array\\array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\projects\\c_sharp_basics\\array\\array.csproj",
+        "projectUniqueName": "B:\\projects\\c#\\c_sharp_basics\\array\\array.csproj",
         "projectName": "array",
-        "projectPath": "B:\\projects\\c_sharp_basics\\array\\array.csproj",
+        "projectPath": "B:\\projects\\c#\\c_sharp_basics\\array\\array.csproj",
         "packagesPath": "C:\\Users\\win11\\.nuget\\packages\\",
-        "outputPath": "B:\\projects\\c_sharp_basics\\array\\obj\\",
+        "outputPath": "B:\\projects\\c#\\c_sharp_basics\\array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\win11\\AppData\\Roaming\\NuGet\\NuGet.Config",
