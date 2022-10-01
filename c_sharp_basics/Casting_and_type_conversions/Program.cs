@@ -43,7 +43,7 @@ namespace casting
 
             //string to numbers
 
-            string val="9999.0";
+            string val="9999";
             // int number=int.Parse(val);
 
 
@@ -58,11 +58,12 @@ namespace casting
             
 
             // Convert class 
+            //it's do the same like parse and try parse but slightly less performnce 
             var h= Convert.ToInt32(val);
             Console.WriteLine(h);
 
             double uu =Convert.ToDouble(val);
-            Console.ReadKey();
+            
         }
     }
 }
