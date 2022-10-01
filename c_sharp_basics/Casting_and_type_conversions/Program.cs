@@ -5,7 +5,8 @@ namespace casting
     {
         static void Main(string[] args)
         {
-            Console.Write("hello world");
+            for(int i=0; i<5; i++)
+            Console.WriteLine("hello world");
             Console.ReadKey();
         }
     }
