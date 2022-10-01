@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n4UInXyR1fH/MX7Jnlj4fW92zmb7scwh4Zi1rkwYIibmM+F85sLHM4t054wTqiYgf42ON+QITHkvYDtUN5AKIQ==",
+  "dgSpecHash": "jEtSSMm89RoWJu0QZt9kQNg+lSWHFkHVCc8m+4SOrp4bC+JKmtzXFkUzMEa8SUqZ1qRvqC4RLtSfibXPzHzwGw==",
   "success": true,
-  "projectFilePath": "B:\\projects\\c#\\c_sharp_basics\\loops\\loops.csproj",
+  "projectFilePath": "B:\\c#\\c_sharp_basics\\loops\\loops.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "obXhbIOnA/nct2dBQ8AVqJ0ueZrn/Y5Cvvrsk9p/K5vQCa9qxk3aJ7cRRYj2tdAzeeTHknAGjX5jGcUS4zjxYw==",
+  "dgSpecHash": "dj9CjKgwJTeZPhSTk/FIbFQKfgxVeDEQB+t45yiR9TNBEo3EoG1vcEvlcBHgAAQCttT7SyII7Gi/3jWs2b95eA==",
   "success": true,
-  "projectFilePath": "B:\\projects\\c#\\c_sharp_basics\\boolean_types_and_operator\\boolean_types_and_operator.csproj",
+  "projectFilePath": "B:\\c#\\c_sharp_basics\\boolean_types_and_operator\\boolean_types_and_operator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

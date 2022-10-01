@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\projects\\c#\\c_sharp_basics\\array\\array.csproj",
+      "projectUniqueName": "B:\\c#\\c_sharp_basics\\array\\array.csproj",
       "projectName": "array",
-      "projectPath": "B:\\projects\\c#\\c_sharp_basics\\array\\array.csproj",
+      "projectPath": "B:\\c#\\c_sharp_basics\\array\\array.csproj",
       "packagesPath": "C:\\Users\\win11\\.nuget\\packages\\",
-      "outputPath": "B:\\projects\\c#\\c_sharp_basics\\array\\obj\\",
+      "outputPath": "B:\\c#\\c_sharp_basics\\array\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\win11\\AppData\\Roaming\\NuGet\\NuGet.Config",

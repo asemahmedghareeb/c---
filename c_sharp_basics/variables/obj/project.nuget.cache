@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4VOCqRm8ihm7lTwq5EhBnMMVuA5ZwdL45wJI0WussErwvgCSX5Gnwgsanl4lRkNYZysEyR/yoSXquq0mlf5k7g==",
+  "dgSpecHash": "tWBTGfNU8qsE147OEskBw/TvMzrb6ILU3ccNVRAJyBnjDHWFKkOnfJmvR8u0dyAKRH9McNvGiATp96PUrV5kkA==",
   "success": true,
-  "projectFilePath": "B:\\projects\\c#\\c_sharp_basics\\variables\\variables.csproj",
+  "projectFilePath": "B:\\c#\\c_sharp_basics\\variables\\variables.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

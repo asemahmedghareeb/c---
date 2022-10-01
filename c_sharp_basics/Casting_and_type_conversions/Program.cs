@@ -5,7 +5,7 @@ namespace casting
     {
         static void Main(string[] args)
         {
-            
+            Console.Write("hello world");
             Console.ReadKey();
         }
     }

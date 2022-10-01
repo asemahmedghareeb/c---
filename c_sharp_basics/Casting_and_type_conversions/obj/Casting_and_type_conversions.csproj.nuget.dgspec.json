@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "B:\\projects\\c#\\c_sharp_basics\\Casting_and_type_conversions\\Casting_and_type_conversions.csproj": {}
+    "B:\\c#\\c_sharp_basics\\Casting_and_type_conversions\\Casting_and_type_conversions.csproj": {}
   },
   "projects": {
-    "B:\\projects\\c#\\c_sharp_basics\\Casting_and_type_conversions\\Casting_and_type_conversions.csproj": {
+    "B:\\c#\\c_sharp_basics\\Casting_and_type_conversions\\Casting_and_type_conversions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\projects\\c#\\c_sharp_basics\\Casting_and_type_conversions\\Casting_and_type_conversions.csproj",
+        "projectUniqueName": "B:\\c#\\c_sharp_basics\\Casting_and_type_conversions\\Casting_and_type_conversions.csproj",
         "projectName": "Casting_and_type_conversions",
-        "projectPath": "B:\\projects\\c#\\c_sharp_basics\\Casting_and_type_conversions\\Casting_and_type_conversions.csproj",
+        "projectPath": "B:\\c#\\c_sharp_basics\\Casting_and_type_conversions\\Casting_and_type_conversions.csproj",
         "packagesPath": "C:\\Users\\win11\\.nuget\\packages\\",
-        "outputPath": "B:\\projects\\c#\\c_sharp_basics\\Casting_and_type_conversions\\obj\\",
+        "outputPath": "B:\\c#\\c_sharp_basics\\Casting_and_type_conversions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\win11\\AppData\\Roaming\\NuGet\\NuGet.Config",

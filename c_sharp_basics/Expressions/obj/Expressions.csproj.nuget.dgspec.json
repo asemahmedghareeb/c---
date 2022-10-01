@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "B:\\projects\\c#\\c_sharp_basics\\Expressions\\Expressions.csproj": {}
+    "B:\\c#\\c_sharp_basics\\Expressions\\Expressions.csproj": {}
   },
   "projects": {
-    "B:\\projects\\c#\\c_sharp_basics\\Expressions\\Expressions.csproj": {
+    "B:\\c#\\c_sharp_basics\\Expressions\\Expressions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\projects\\c#\\c_sharp_basics\\Expressions\\Expressions.csproj",
+        "projectUniqueName": "B:\\c#\\c_sharp_basics\\Expressions\\Expressions.csproj",
         "projectName": "Expressions",
-        "projectPath": "B:\\projects\\c#\\c_sharp_basics\\Expressions\\Expressions.csproj",
+        "projectPath": "B:\\c#\\c_sharp_basics\\Expressions\\Expressions.csproj",
         "packagesPath": "C:\\Users\\win11\\.nuget\\packages\\",
-        "outputPath": "B:\\projects\\c#\\c_sharp_basics\\Expressions\\obj\\",
+        "outputPath": "B:\\c#\\c_sharp_basics\\Expressions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\win11\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,15 @@
+B:\c#\c_sharp_basics\Casting_and_type_conversions\bin\Debug\net6.0\Casting_and_type_conversions.exe
+B:\c#\c_sharp_basics\Casting_and_type_conversions\bin\Debug\net6.0\Casting_and_type_conversions.deps.json
+B:\c#\c_sharp_basics\Casting_and_type_conversions\bin\Debug\net6.0\Casting_and_type_conversions.runtimeconfig.json
+B:\c#\c_sharp_basics\Casting_and_type_conversions\bin\Debug\net6.0\Casting_and_type_conversions.dll
+B:\c#\c_sharp_basics\Casting_and_type_conversions\bin\Debug\net6.0\Casting_and_type_conversions.pdb
+B:\c#\c_sharp_basics\Casting_and_type_conversions\obj\Debug\net6.0\Casting_and_type_conversions.csproj.AssemblyReference.cache
+B:\c#\c_sharp_basics\Casting_and_type_conversions\obj\Debug\net6.0\Casting_and_type_conversions.GeneratedMSBuildEditorConfig.editorconfig
+B:\c#\c_sharp_basics\Casting_and_type_conversions\obj\Debug\net6.0\Casting_and_type_conversions.AssemblyInfoInputs.cache
+B:\c#\c_sharp_basics\Casting_and_type_conversions\obj\Debug\net6.0\Casting_and_type_conversions.AssemblyInfo.cs
+B:\c#\c_sharp_basics\Casting_and_type_conversions\obj\Debug\net6.0\Casting_and_type_conversions.csproj.CoreCompileInputs.cache
+B:\c#\c_sharp_basics\Casting_and_type_conversions\obj\Debug\net6.0\Casting_and_type_conversions.dll
+B:\c#\c_sharp_basics\Casting_and_type_conversions\obj\Debug\net6.0\refint\Casting_and_type_conversions.dll
+B:\c#\c_sharp_basics\Casting_and_type_conversions\obj\Debug\net6.0\Casting_and_type_conversions.pdb
+B:\c#\c_sharp_basics\Casting_and_type_conversions\obj\Debug\net6.0\Casting_and_type_conversions.genruntimeconfig.cache
+B:\c#\c_sharp_basics\Casting_and_type_conversions\obj\Debug\net6.0\ref\Casting_and_type_conversions.dll
