@@ -1,0 +1,15 @@
+B:\c#\c_sharp_basics\Fields__Constats\obj\Debug\net6.0\Fields__Constats.csproj.AssemblyReference.cache
+B:\c#\c_sharp_basics\Fields__Constats\obj\Debug\net6.0\Fields__Constats.GeneratedMSBuildEditorConfig.editorconfig
+B:\c#\c_sharp_basics\Fields__Constats\obj\Debug\net6.0\Fields__Constats.AssemblyInfoInputs.cache
+B:\c#\c_sharp_basics\Fields__Constats\obj\Debug\net6.0\Fields__Constats.AssemblyInfo.cs
+B:\c#\c_sharp_basics\Fields__Constats\obj\Debug\net6.0\Fields__Constats.csproj.CoreCompileInputs.cache
+B:\c#\c_sharp_basics\Fields__Constats\bin\Debug\net6.0\Fields__Constats.exe
+B:\c#\c_sharp_basics\Fields__Constats\bin\Debug\net6.0\Fields__Constats.deps.json
+B:\c#\c_sharp_basics\Fields__Constats\bin\Debug\net6.0\Fields__Constats.runtimeconfig.json
+B:\c#\c_sharp_basics\Fields__Constats\bin\Debug\net6.0\Fields__Constats.dll
+B:\c#\c_sharp_basics\Fields__Constats\bin\Debug\net6.0\Fields__Constats.pdb
+B:\c#\c_sharp_basics\Fields__Constats\obj\Debug\net6.0\Fields__Constats.dll
+B:\c#\c_sharp_basics\Fields__Constats\obj\Debug\net6.0\refint\Fields__Constats.dll
+B:\c#\c_sharp_basics\Fields__Constats\obj\Debug\net6.0\Fields__Constats.pdb
+B:\c#\c_sharp_basics\Fields__Constats\obj\Debug\net6.0\Fields__Constats.genruntimeconfig.cache
+B:\c#\c_sharp_basics\Fields__Constats\obj\Debug\net6.0\ref\Fields__Constats.dll

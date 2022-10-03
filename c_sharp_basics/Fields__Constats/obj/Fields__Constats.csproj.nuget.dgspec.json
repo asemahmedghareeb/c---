@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "B:\\c#\\fields&constant\\fields&constant.csproj": {}
+    "B:\\c#\\c_sharp_basics\\Fields__Constats\\Fields__Constats.csproj": {}
   },
   "projects": {
-    "B:\\c#\\fields&constant\\fields&constant.csproj": {
+    "B:\\c#\\c_sharp_basics\\Fields__Constats\\Fields__Constats.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\c#\\fields&constant\\fields&constant.csproj",
-        "projectName": "fields&constant",
-        "projectPath": "B:\\c#\\fields&constant\\fields&constant.csproj",
+        "projectUniqueName": "B:\\c#\\c_sharp_basics\\Fields__Constats\\Fields__Constats.csproj",
+        "projectName": "Fields__Constats",
+        "projectPath": "B:\\c#\\c_sharp_basics\\Fields__Constats\\Fields__Constats.csproj",
         "packagesPath": "C:\\Users\\win11\\.nuget\\packages\\",
-        "outputPath": "B:\\c#\\fields&constant\\obj\\",
+        "outputPath": "B:\\c#\\c_sharp_basics\\Fields__Constats\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\win11\\AppData\\Roaming\\NuGet\\NuGet.Config",
