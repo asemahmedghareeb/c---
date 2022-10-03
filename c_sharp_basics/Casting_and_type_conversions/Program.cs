@@ -63,7 +63,42 @@ namespace casting
             Console.WriteLine(h);
 
             double uu =Convert.ToDouble(val);
+            //bit converter
+            var numb = 15;
+            var bytes = BitConverter.GetBytes(numb);
+            foreach(var b in bytes)
+            {
+                var binary = Convert.ToString(b,2).PadLeft(8,'0');
+                Console.WriteLine(binary);
+                //Console.WriteLine(b); 
+            };
+            Console.WriteLine("\n");
+
+            var name = "issam";
+            var charArr = name.ToCharArray();
+            foreach (var item in charArr)
+            {
+                Console.WriteLine(Convert.ToString(item, 10));
+            }
+
             
+            Console.WriteLine("\n");
+
+            foreach (var item in name)
+            {
+                var hex = Convert.ToString(item, 10);
+                Console.WriteLine(hex);
+            }
+
+            Console.WriteLine("\n");
+
+            foreach (var item in name)
+            {
+                var ascii = Convert.ToInt32(item);
+                Console.WriteLine($"{item}-> Ascii ={ascii} ,binary -> {Convert.ToString(item,2).PadLeft(8,'0')}");
+            }
+
+            Console.ReadKey();
         }
     }
 }
