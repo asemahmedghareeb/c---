@@ -95,10 +95,22 @@ namespace casting
             foreach (var item in name)
             {
                 var ascii = Convert.ToInt32(item);
-                Console.WriteLine($"{item}-> Ascii ={ascii} ,binary -> {Convert.ToString(item,2).PadLeft(8,'0')}");
+                Console.WriteLine($"{item}-> Ascii ={ascii} ,binary -> {Convert.ToString(item,2).PadLeft(8,'0')},hex -> {ascii:x}");
             }
+                string[] hexvalue={"49", "73","73", "61", "6d"};
+                foreach(var o in hexvalue){
+                    int value=Convert.ToInt32(o,16);
+                    var stringvalue=char.ConvertFromUtf32(value);
+                    var ch=(char)value;
+                    Console.Write(value+" ");
+                    Console.WriteLine(ch);
+                    
+                }
 
-            Console.ReadKey();
+            var hexa ="8E2";
+            int number2 =Int32.Parse(hexa,System.Globalization.NumberStyles.HexNumber);
+            Console.WriteLine(number2);
+
         }
     }
 }
