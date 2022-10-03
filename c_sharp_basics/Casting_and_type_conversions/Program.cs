@@ -63,6 +63,8 @@ namespace casting
             Console.WriteLine(h);
 
             double uu =Convert.ToDouble(val);
+
+            
             //bit converter
             var numb = 15;
             var bytes = BitConverter.GetBytes(numb);
