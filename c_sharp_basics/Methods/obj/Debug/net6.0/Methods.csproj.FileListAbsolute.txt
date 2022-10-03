@@ -1,0 +1,15 @@
+B:\c#\c_sharp_basics\Methods\bin\Debug\net6.0\Methods.exe
+B:\c#\c_sharp_basics\Methods\bin\Debug\net6.0\Methods.deps.json
+B:\c#\c_sharp_basics\Methods\bin\Debug\net6.0\Methods.runtimeconfig.json
+B:\c#\c_sharp_basics\Methods\bin\Debug\net6.0\Methods.dll
+B:\c#\c_sharp_basics\Methods\bin\Debug\net6.0\Methods.pdb
+B:\c#\c_sharp_basics\Methods\obj\Debug\net6.0\Methods.csproj.AssemblyReference.cache
+B:\c#\c_sharp_basics\Methods\obj\Debug\net6.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+B:\c#\c_sharp_basics\Methods\obj\Debug\net6.0\Methods.AssemblyInfoInputs.cache
+B:\c#\c_sharp_basics\Methods\obj\Debug\net6.0\Methods.AssemblyInfo.cs
+B:\c#\c_sharp_basics\Methods\obj\Debug\net6.0\Methods.csproj.CoreCompileInputs.cache
+B:\c#\c_sharp_basics\Methods\obj\Debug\net6.0\Methods.dll
+B:\c#\c_sharp_basics\Methods\obj\Debug\net6.0\refint\Methods.dll
+B:\c#\c_sharp_basics\Methods\obj\Debug\net6.0\Methods.pdb
+B:\c#\c_sharp_basics\Methods\obj\Debug\net6.0\Methods.genruntimeconfig.cache
+B:\c#\c_sharp_basics\Methods\obj\Debug\net6.0\ref\Methods.dll
