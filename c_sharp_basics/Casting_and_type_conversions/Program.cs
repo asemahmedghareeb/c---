@@ -44,7 +44,7 @@ namespace casting
             //string to numbers
 
             string val="9999";
-            // int number=int.Parse(val);
+            //int number=int.Parse(val);
 
 
             //out int number means if we can convert put the value of convertion in number variable
@@ -102,7 +102,8 @@ namespace casting
                 string[] hexvalue={"49", "73","73", "61", "6d"};
                 foreach(var o in hexvalue){
                     int value=Convert.ToInt32(o,16);
-                    var stringvalue=char.ConvertFromUtf32(value);
+                    //the comming two line is doing the same
+                    var stringvalue=char.ConvertFromUtf32(value);     
                     var ch=(char)value;
                     Console.Write(value+" ");
                     Console.WriteLine(ch);

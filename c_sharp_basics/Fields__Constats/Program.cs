@@ -35,18 +35,7 @@ namespace app
             emps[0] = e1;
             foreach(var emp in emps)
             {
-                var salary = emp.wage * emp.LoggedHours;
-                var netsalary = salary- (salary* employee.TAX);
-
-                var taxamount = salary * employee.TAX;
-                Console.WriteLine($"\nfirst name : {emp.FName} ");
-                Console.WriteLine($"last name : {emp.LName} ");
-                Console.WriteLine($"wage : {emp.wage} ");
-                Console.WriteLine($"logged hours : {emp.LoggedHours} ");
-                Console.WriteLine("----------------------------------------------------------");
-                Console.WriteLine($"salary : {salary}$");
-                Console.WriteLine($"Dejuctable tax ({employee.TAX * 100}%)tax amount : {taxamount}");
-                Console.WriteLine($"net salary : {netsalary}\n");
+                Console.WriteLine(emp.printslipt());
             }
             Console.Read();
         }
