@@ -1,0 +1,15 @@
+B:\c#\c_sharp_basics\Constructor\bin\Debug\net6.0\Constructor.exe
+B:\c#\c_sharp_basics\Constructor\bin\Debug\net6.0\Constructor.deps.json
+B:\c#\c_sharp_basics\Constructor\bin\Debug\net6.0\Constructor.runtimeconfig.json
+B:\c#\c_sharp_basics\Constructor\bin\Debug\net6.0\Constructor.dll
+B:\c#\c_sharp_basics\Constructor\bin\Debug\net6.0\Constructor.pdb
+B:\c#\c_sharp_basics\Constructor\obj\Debug\net6.0\Constructor.csproj.AssemblyReference.cache
+B:\c#\c_sharp_basics\Constructor\obj\Debug\net6.0\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+B:\c#\c_sharp_basics\Constructor\obj\Debug\net6.0\Constructor.AssemblyInfoInputs.cache
+B:\c#\c_sharp_basics\Constructor\obj\Debug\net6.0\Constructor.AssemblyInfo.cs
+B:\c#\c_sharp_basics\Constructor\obj\Debug\net6.0\Constructor.csproj.CoreCompileInputs.cache
+B:\c#\c_sharp_basics\Constructor\obj\Debug\net6.0\Constructor.dll
+B:\c#\c_sharp_basics\Constructor\obj\Debug\net6.0\refint\Constructor.dll
+B:\c#\c_sharp_basics\Constructor\obj\Debug\net6.0\Constructor.pdb
+B:\c#\c_sharp_basics\Constructor\obj\Debug\net6.0\Constructor.genruntimeconfig.cache
+B:\c#\c_sharp_basics\Constructor\obj\Debug\net6.0\ref\Constructor.dll
