@@ -1,0 +1,15 @@
+B:\c#\c_sharp_basics\Properties\bin\Debug\net6.0\Properties.exe
+B:\c#\c_sharp_basics\Properties\bin\Debug\net6.0\Properties.deps.json
+B:\c#\c_sharp_basics\Properties\bin\Debug\net6.0\Properties.runtimeconfig.json
+B:\c#\c_sharp_basics\Properties\bin\Debug\net6.0\Properties.dll
+B:\c#\c_sharp_basics\Properties\bin\Debug\net6.0\Properties.pdb
+B:\c#\c_sharp_basics\Properties\obj\Debug\net6.0\Properties.csproj.AssemblyReference.cache
+B:\c#\c_sharp_basics\Properties\obj\Debug\net6.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+B:\c#\c_sharp_basics\Properties\obj\Debug\net6.0\Properties.AssemblyInfoInputs.cache
+B:\c#\c_sharp_basics\Properties\obj\Debug\net6.0\Properties.AssemblyInfo.cs
+B:\c#\c_sharp_basics\Properties\obj\Debug\net6.0\Properties.csproj.CoreCompileInputs.cache
+B:\c#\c_sharp_basics\Properties\obj\Debug\net6.0\Properties.dll
+B:\c#\c_sharp_basics\Properties\obj\Debug\net6.0\refint\Properties.dll
+B:\c#\c_sharp_basics\Properties\obj\Debug\net6.0\Properties.pdb
+B:\c#\c_sharp_basics\Properties\obj\Debug\net6.0\Properties.genruntimeconfig.cache
+B:\c#\c_sharp_basics\Properties\obj\Debug\net6.0\ref\Properties.dll
