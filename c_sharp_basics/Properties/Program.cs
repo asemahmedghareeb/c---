@@ -17,14 +17,18 @@ namespace app
     public class Doller
     {
         private  decimal _amount;
+        // the disadvantage of constructor is that after initilzation you must make new object to restore another value
+        //automatic property is used when  the set and get is simple (has no validation)
+        public decimal Amount { get; set; }
         //properity
-        public decimal Amount
+
+        public decimal Amount2
         {
             get 
             { 
                 return this._amount; 
             }
-            private set 
+            set 
             {
                 this._amount=processValue(value);
             }
@@ -41,7 +45,7 @@ namespace app
 
         public void SetAmount(decimal value)
         {
-            Amount=value; 
+            _amount=value; 
         }
         public Doller(decimal amount)
         {
