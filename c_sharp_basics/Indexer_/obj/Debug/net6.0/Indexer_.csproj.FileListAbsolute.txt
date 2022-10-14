@@ -1,0 +1,15 @@
+B:\c#\c_sharp_basics\Indexer_\bin\Debug\net6.0\Indexer_.exe
+B:\c#\c_sharp_basics\Indexer_\bin\Debug\net6.0\Indexer_.deps.json
+B:\c#\c_sharp_basics\Indexer_\bin\Debug\net6.0\Indexer_.runtimeconfig.json
+B:\c#\c_sharp_basics\Indexer_\bin\Debug\net6.0\Indexer_.dll
+B:\c#\c_sharp_basics\Indexer_\bin\Debug\net6.0\Indexer_.pdb
+B:\c#\c_sharp_basics\Indexer_\obj\Debug\net6.0\Indexer_.csproj.AssemblyReference.cache
+B:\c#\c_sharp_basics\Indexer_\obj\Debug\net6.0\Indexer_.GeneratedMSBuildEditorConfig.editorconfig
+B:\c#\c_sharp_basics\Indexer_\obj\Debug\net6.0\Indexer_.AssemblyInfoInputs.cache
+B:\c#\c_sharp_basics\Indexer_\obj\Debug\net6.0\Indexer_.AssemblyInfo.cs
+B:\c#\c_sharp_basics\Indexer_\obj\Debug\net6.0\Indexer_.csproj.CoreCompileInputs.cache
+B:\c#\c_sharp_basics\Indexer_\obj\Debug\net6.0\Indexer_.dll
+B:\c#\c_sharp_basics\Indexer_\obj\Debug\net6.0\refint\Indexer_.dll
+B:\c#\c_sharp_basics\Indexer_\obj\Debug\net6.0\Indexer_.pdb
+B:\c#\c_sharp_basics\Indexer_\obj\Debug\net6.0\Indexer_.genruntimeconfig.cache
+B:\c#\c_sharp_basics\Indexer_\obj\Debug\net6.0\ref\Indexer_.dll
