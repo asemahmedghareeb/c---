@@ -1,0 +1,15 @@
+B:\c#\c_sharp_basics\Delegate\bin\Debug\net6.0\Delegate.exe
+B:\c#\c_sharp_basics\Delegate\bin\Debug\net6.0\Delegate.deps.json
+B:\c#\c_sharp_basics\Delegate\bin\Debug\net6.0\Delegate.runtimeconfig.json
+B:\c#\c_sharp_basics\Delegate\bin\Debug\net6.0\Delegate.dll
+B:\c#\c_sharp_basics\Delegate\bin\Debug\net6.0\Delegate.pdb
+B:\c#\c_sharp_basics\Delegate\obj\Debug\net6.0\Delegate.csproj.AssemblyReference.cache
+B:\c#\c_sharp_basics\Delegate\obj\Debug\net6.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+B:\c#\c_sharp_basics\Delegate\obj\Debug\net6.0\Delegate.AssemblyInfoInputs.cache
+B:\c#\c_sharp_basics\Delegate\obj\Debug\net6.0\Delegate.AssemblyInfo.cs
+B:\c#\c_sharp_basics\Delegate\obj\Debug\net6.0\Delegate.csproj.CoreCompileInputs.cache
+B:\c#\c_sharp_basics\Delegate\obj\Debug\net6.0\Delegate.dll
+B:\c#\c_sharp_basics\Delegate\obj\Debug\net6.0\refint\Delegate.dll
+B:\c#\c_sharp_basics\Delegate\obj\Debug\net6.0\Delegate.pdb
+B:\c#\c_sharp_basics\Delegate\obj\Debug\net6.0\Delegate.genruntimeconfig.cache
+B:\c#\c_sharp_basics\Delegate\obj\Debug\net6.0\ref\Delegate.dll
