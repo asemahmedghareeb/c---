@@ -20,10 +20,14 @@ namespace Delegate
 
             var report = new Report();
             report.ProssesEmployee(emps, "sales >= $60,000",isGreatereThanOrequal60000);
+            report.ProssesEmployee(emps, "sales >= $60,000",delegate(Employee e) { return e.TotalSales > 60000; });
+            report.ProssesEmployee(emps, "sales between30000And60000",isBetween30000And60000
+                );
+            report.ProssesEmployee(emps, "sales <30000", isLessThan30000);
                 
         }
         static bool isGreatereThanOrequal60000(Employee e) => e.TotalSales > 60000;
-        static bool isBetween30000And60000(Employee e) => e.TotalSales > 60000;
-        static bool isGreatereThan30000(Employee e) => e.TotalSales > 60000;
+        static bool isBetween30000And60000(Employee e) => e.TotalSales >= 30000 && e.TotalSales < 60000;
+        static bool isLessThan30000(Employee e) => e.TotalSales <30000;
     }
 }
