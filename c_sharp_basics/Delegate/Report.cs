@@ -4,6 +4,7 @@ namespace Delegate
 {
     public  class Report
     {
+
         public delegate bool illegibleSales(Employee e);
         public void ProssesEmployee(Employee[] employees,string title, illegibleSales IsIllegible)
         {
