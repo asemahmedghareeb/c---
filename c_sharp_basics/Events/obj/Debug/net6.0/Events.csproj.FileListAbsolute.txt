@@ -1,0 +1,15 @@
+B:\c#\c_sharp_basics\Events\bin\Debug\net6.0\Events.exe
+B:\c#\c_sharp_basics\Events\bin\Debug\net6.0\Events.deps.json
+B:\c#\c_sharp_basics\Events\bin\Debug\net6.0\Events.runtimeconfig.json
+B:\c#\c_sharp_basics\Events\bin\Debug\net6.0\Events.dll
+B:\c#\c_sharp_basics\Events\bin\Debug\net6.0\Events.pdb
+B:\c#\c_sharp_basics\Events\obj\Debug\net6.0\Events.csproj.AssemblyReference.cache
+B:\c#\c_sharp_basics\Events\obj\Debug\net6.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+B:\c#\c_sharp_basics\Events\obj\Debug\net6.0\Events.AssemblyInfoInputs.cache
+B:\c#\c_sharp_basics\Events\obj\Debug\net6.0\Events.AssemblyInfo.cs
+B:\c#\c_sharp_basics\Events\obj\Debug\net6.0\Events.csproj.CoreCompileInputs.cache
+B:\c#\c_sharp_basics\Events\obj\Debug\net6.0\Events.dll
+B:\c#\c_sharp_basics\Events\obj\Debug\net6.0\refint\Events.dll
+B:\c#\c_sharp_basics\Events\obj\Debug\net6.0\Events.pdb
+B:\c#\c_sharp_basics\Events\obj\Debug\net6.0\Events.genruntimeconfig.cache
+B:\c#\c_sharp_basics\Events\obj\Debug\net6.0\ref\Events.dll
