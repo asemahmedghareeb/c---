@@ -7,7 +7,6 @@ namespace Delegate
         {
             var emps = new Employee[]
             {
-
                 new Employee{Id=1,Name="Issam",Gender="m",TotalSales=234234 },
                 new Employee{Id=2,Name="asem",Gender="m",TotalSales=245987765 },
                 new Employee{Id=3,Name="ahmed",Gender="m",TotalSales=39034 },
@@ -21,7 +20,7 @@ namespace Delegate
             var report = new Report();
             report.ProssesEmployee(emps, "sales >= $60,000",isGreatereThanOrequal60000);
 
-            //we can use delegate key word
+            //we can use anonymous delegate key word
             report.ProssesEmployee(emps, "sales >= $60,000",delegate (Employee e) { return e.TotalSales > 60000; });
 
 
