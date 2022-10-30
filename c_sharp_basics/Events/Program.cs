@@ -13,28 +13,29 @@ namespace CAEvent
 
         }
     }
+    public delegate void StockPriceChangeHander();
 
     public class Stock
     {
         private string name;
         private decimal price;
 
-        public string Name=>this.name;
-        public decimal Price 
-        { 
+        public string Name => this.name;
+        public decimal Price
+        {
             get => this.price;
-            set => this.price=value;
+            set => this.price = value;
         }
 
         public Stock(string stockname)
         {
             this.name = stockname;
-           
+
         }
 
         public void ChangeStockPriceBy(decimal percent)
         {
-            this.Price+=Math.Round(this.Price*percent);
+            this.Price += Math.Round(this.Price * percent);
 
         }
     }
