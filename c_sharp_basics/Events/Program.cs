@@ -18,19 +18,22 @@ namespace CAEvent
 
         private static void Stock_OnPriceChanged(Stock stock, decimal oldprice)
         {
+            string result = "";
             if (stock.Price > oldprice)
             {
                 Console.ForegroundColor = ConsoleColor.Green;
+                result = "up";
             }
             else if (oldprice > stock.Price)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
+                result = "down";
             }
             else
             {
                 Console.ForegroundColor = ConsoleColor.Gray;
             }
-                Console.WriteLine($"{stock.Name} price is {stock.Price}");
+                Console.WriteLine($"{stock.Name} price is {stock.Price} {result}");
         }
     }
     public delegate void StockPriceChangeHander(Stock stock,decimal oldprice);
